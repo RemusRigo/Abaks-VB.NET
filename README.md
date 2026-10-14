@@ -1,28 +1,36 @@
 # Abaks
-
-A Windows calculator app.
-This app was developed for training purposes.
+Abaks: a simple Windows calculator (developed for training purposes)
 
 
 
-## Authors
+## Author
 
 * [@remusrigo](https://github.com/RemusRigo)
 * [@remusrigo](https://sourceforge.net/u/remusrigo/profile)
 
 
 
-## Installation
+## Features
 
-* Install Run-Time libraries if it's asking
-* Run Abaks.exe
-* Current builds in zip file: .NET Framework 4.8, 8.0 and 10.0, x86/x64
+* Basic operations: add, subtract, multiply, divide
+* Chained operations (e.g. `20-10+5=`), with the operation in progress shown above the result
+* Backspace, Clear Entry (CE), Clear (C), change sign (±)
+* Keyboard support: digits, `+ - * /`, Enter, Backspace, Delete, Esc
+
+
+
+## User's Guide
+
+See the [User's Guide](UsersGuide.md) for downloads, runtimes, installation and usage.
 
 
 
 ## Statistics
 
-![status](https://img.shields.io/badge/status-completed-brightgreen)<br>
+![VB.NET](https://img.shields.io/badge/Language-VB.NET-512BD4?labelColor=555555)
+![VS](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?labelColor=555555)
+<br>
+![status](https://img.shields.io/badge/status-completed-brightgreen) 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RemusRigo/Abaks-VB.NET/total)
 
 
@@ -33,4 +41,3 @@ This app was developed for training purposes.
 * 2026-09-12: Add: key press support
 * 2026-09-12: Fix: missed the C and CE buttons procedures
 * 2026-01-20: Project started
-
