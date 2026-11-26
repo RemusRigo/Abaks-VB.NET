@@ -3,14 +3,14 @@ Abaks: a simple Windows calculator (developed for training purposes)
 
 
 
-## Author
+## 👤 Author
 
 * [@remusrigo](https://github.com/RemusRigo)
 * [@remusrigo](https://sourceforge.net/u/remusrigo/profile)
 
 
 
-## Features
+## ✨ Features
 
 * Basic operations: add, subtract, multiply, divide
 * Chained operations (e.g. `20-10+5=`), with the operation in progress shown above the result
@@ -19,13 +19,13 @@ Abaks: a simple Windows calculator (developed for training purposes)
 
 
 
-## User's Guide
+## ⚙️ User's Guide
 
 See the [User's Guide](UsersGuide.md) for downloads, runtimes, installation and usage.
 
 
 
-## Statistics
+## 🛠️ Statistics
 
 ![VB.NET](https://img.shields.io/badge/Language-VB.NET-blue)
 ![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-purple)
@@ -36,7 +36,7 @@ See the [User's Guide](UsersGuide.md) for downloads, runtimes, installation and 
 
 
 
-## Roadmap
+## 🗺️ Roadmap
 
 * 2026-11-26: Add: .NET 4.8 framework
 * 2026-09-12: Add: .ico: [Calculator](https://icon-icons.com/icon/calculator/2972) by [Icons8](https://icon-icons.com/authors/10-icons8)
