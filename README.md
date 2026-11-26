@@ -21,7 +21,7 @@ Abaks: a simple Windows calculator (developed for training purposes)
 
 ## ⚙️ User's Guide
 
-See the [User's Guide](UsersGuide.md) for downloads, runtimes, installation and usage.
+See the [User's Guide](Users%20Guide.md) for downloads, runtimes, installation and usage.
 
 
 
