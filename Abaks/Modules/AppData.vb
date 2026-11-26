@@ -6,9 +6,9 @@
 
 Module AppData
 
-   Public Const appName As String = "Jump List Reader"
+   Public Const appName As String = "Abaks"
    Public Const appVersion As String = "v1.1"
-   Public Const appBuild As String = "20260910"
+   Public Const appBuild As String = "20261126"
    Public Const appAuthor As String = "Remus Rigo"
    Public Const appLink As String = "© 2026 " & appAuthor
    Public Const appTitle As String = appAuthor & " " & appName & " " & appVersion & "." & appBuild

@@ -28,15 +28,17 @@ See the [User's Guide](UsersGuide.md) for downloads, runtimes, installation and 
 ## Statistics
 
 ![VB.NET](https://img.shields.io/badge/Language-VB.NET-blue)
-![VS](https://img.shields.io/badge/IDE-Visual%20Studio-purple)
+![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-purple)
 <br>
 ![status](https://img.shields.io/badge/status-on%20hold-yellow)
+<br>
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RemusRigo/Abaks-VB.NET/total)
 
 
 
 ## Roadmap
 
+* 2026-11-26: Add: .NET 4.8 framework
 * 2026-09-12: Add: .ico: [Calculator](https://icon-icons.com/icon/calculator/2972) by [Icons8](https://icon-icons.com/authors/10-icons8)
 * 2026-09-12: Add: key press support
 * 2026-09-12: Fix: missed the C and CE buttons procedures

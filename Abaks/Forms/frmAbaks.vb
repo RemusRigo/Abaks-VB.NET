@@ -73,6 +73,7 @@ Public Class frmAbaks
    '===============================================================================================
    ' frmAbaks: OnLoad
    Private Sub frmAbaks_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+      Me.Icon = Icon.ExtractAssociatedIcon(Application.ExecutablePath)   ' exe icon (Res\Main.ico), avoids a binary resource in the .resx
       Me.KeyPreview = True
       txtBoxCurrent.Text = ""
       txtBoxResult.Text = ""

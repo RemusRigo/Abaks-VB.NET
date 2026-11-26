@@ -22,7 +22,6 @@ Partial Class frmAbaks
    'Do not modify it using the code editor.
    <System.Diagnostics.DebuggerStepThrough()>
    Private Sub InitializeComponent()
-      Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmAbaks))
       btn1 = New Button()
       btn2 = New Button()
       btn3 = New Button()
@@ -308,7 +307,6 @@ Partial Class frmAbaks
       Controls.Add(btn3)
       Controls.Add(btn2)
       Controls.Add(btn1)
-      Icon = CType(resources.GetObject("$this.Icon"), Icon)
       Margin = New Padding(4, 3, 4, 3)
       MaximizeBox = False
       MinimizeBox = False
